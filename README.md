@@ -5,11 +5,13 @@
 
 ---
 
-## 🏷️ Insignias
+## Insignias
 
-[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
-[![GitHub Issues](https://img.shields.io/github/issues/tu-usuario/amigo-secreto)](https://github.com/tu-usuario/amigo-secreto/issues)  
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/tu-usuario/amigo-secreto)](https://github.com/tu-usuario/amigo-secreto/pulls)
+[![Estado del Proyecto](https://img.shields.io/badge/Estado-Activo-brightgreen)](https://github.com/tu-usuario/amigo-secreto)
+[![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)](https://opensource.org/licenses/MIT)
+[![Último Commit](https://img.shields.io/github/last-commit/tu-usuario/amigo-secreto?color=orange)](https://github.com/tu-usuario/amigo-secreto)
+[![Issues Abiertas](https://img.shields.io/github/issues/tu-usuario/amigo-secreto?color=red)](https://github.com/tu-usuario/amigo-secreto/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/tu-usuario/amigo-secreto?color=yellowgreen)](https://github.com/tu-usuario/amigo-secreto/pulls)
 
 ---
 
@@ -20,9 +22,8 @@
 3. [Demostración de Funciones y Aplicaciones](#demostración-de-funciones-y-aplicaciones)
 4. [Acceso al Proyecto](#acceso-al-proyecto)
 5. [Tecnologías Utilizadas](#tecnologías-utilizadas)
-6. [Personas Contribuyentes](#personas-contribuyentes)
-7. [Personas Desarrolladoras del Proyecto](#personas-desarrolladoras-del-proyecto)
-8. [Licencia](#licencia)
+6. [Personas Desarrolladoras del Proyecto](#personas-desarrolladoras-del-proyecto)
+7. [Licencia](#licencia)
 
 ---
 
@@ -75,4 +76,29 @@ Para acceder al proyecto, sigue estos pasos:
    ```bash
    git clone https://github.com/tu-usuario/amigo-secreto.git
 2. Abre el archivo index.html en tu navegador preferido.
+
+## Tecnologías Utilizadas
+
+- **HTML5:** Para estructurar la interfaz de usuario.
+- **CSS3:** Para estilizar la aplicación (opcional, puedes personalizarlo según tus necesidades).
+- **JavaScript:** Para implementar la lógica de la aplicación, incluyendo la gestión de la lista y el sorteo aleatorio.
+
+---
+
+## Personas Desarrolladoras del Proyecto
+
+- **Nombre:** Tu Nombre  
+  **Rol:** Desarrollador Principal  
+  **GitHub:** [@tu-usuario](https://github.com/tu-usuario)  
+  **Correo Electrónico:** tu-correo@example.com  
+
+*(Agrega más desarrolladores si corresponde.)*
+
+---
+
+## Licencia
+
+Este proyecto está bajo la licencia [MIT](https://opensource.org/licenses/MIT). Puedes usarlo, modificarlo y distribuirlo libremente.
+
+---
 
