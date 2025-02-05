@@ -9,9 +9,6 @@
 
 [![Estado del Proyecto](https://img.shields.io/badge/Estado-Activo-brightgreen)](https://github.com/tu-usuario/amigo-secreto)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)](https://opensource.org/licenses/MIT)
-[![Último Commit](https://img.shields.io/github/last-commit/tu-usuario/amigo-secreto?color=orange)](https://github.com/tu-usuario/amigo-secreto)
-[![Issues Abiertas](https://img.shields.io/github/issues/tu-usuario/amigo-secreto?color=red)](https://github.com/tu-usuario/amigo-secreto/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/tu-usuario/amigo-secreto?color=yellowgreen)](https://github.com/tu-usuario/amigo-secreto/pulls)
 
 ---
 
