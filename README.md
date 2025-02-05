@@ -72,7 +72,7 @@ Para acceder al proyecto, sigue estos pasos:
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/tu-usuario/amigo-secreto.git
-2. Abre el archivo ```index.html en tu navegador preferido.
+2. Abre el archivo [Index.html](#index.html) en tu navegador preferido.
 
 ## Tecnologías Utilizadas
 
