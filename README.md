@@ -60,9 +60,6 @@ Este proyecto está en estado **activo** y listo para su uso. Todas las funciona
 ![Lista Borrada](https://via.placeholder.com/600x400?text=Lista+Borrada)  
 *Después del sorteo, la lista de amigos se borra automáticamente.*
 
-#### Video Demostrativo
-Puedes ver un video demostrativo del funcionamiento de la aplicación [aquí](https://www.youtube.com/watch?v=placeholder). *(Reemplaza este enlace con un video real si lo tienes disponible.)*
-
 ---
 
 ## 🔗 Acceso al Proyecto
@@ -71,7 +68,7 @@ Para acceder al proyecto, sigue estos pasos:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/HaganeNoren93/challenge-amigo-secreto_esp-main.git
 2. Abre el archivo [Index.html](#index.html) en tu navegador preferido.
 
 ## Tecnologías Utilizadas
@@ -84,10 +81,10 @@ Para acceder al proyecto, sigue estos pasos:
 
 ## Personas Desarrolladoras del Proyecto
 
-- **Nombre:** Tu Nombre  
-  **Rol:** Desarrollador Principal  
-  **GitHub:** [@tu-usuario](https://github.com/tu-usuario)  
-  **Correo Electrónico:** tu-correo@example.com  
+- **Nombre:** Carlos Eduardo Bernal Garzón  
+  **Rol:** Estudiante  
+  **GitHub:** [@HaganeNoren93](https://github.com/HaganeNoren93)  
+  **Correo Electrónico:** cebg9311@gmail.com  
 
 *(Agrega más desarrolladores si corresponde.)*
 
