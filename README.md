@@ -76,9 +76,10 @@ Para acceder al proyecto, sigue estos pasos:
 
 ## Tecnologías Utilizadas
 
-- **HTML5:** Para estructurar la interfaz de usuario.
-- **CSS3:** Para estilizar la aplicación (opcional, puedes personalizarlo según tus necesidades).
-- **JavaScript:** Para implementar la lógica de la aplicación, incluyendo la gestión de la lista y el sorteo aleatorio.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  Para estructurar la interfaz de usuario.
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  Para estilizar la aplicación (opcional, puedes personalizarlo según tus necesidades).
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   Para implementar la lógica de la aplicación, incluyendo la gestión de la lista y el sorteo aleatorio.
+ 
 
 ---
 
