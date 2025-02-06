@@ -46,20 +46,20 @@ Este proyecto está en estado **activo** y listo para su uso. Todas las funciona
 ## 🎥 Demostración de Funciones y Aplicaciones
 
 ### 1. Interfaz Inicial
-![Interfaz Inicial](https://via.placeholder.com/600x400?text=Interfaz+Inicial)  
+![interfaz-inicial](https://github.com/user-attachments/assets/c11cc093-ef86-4001-bf54-ebf146658b06)
+
 *La interfaz inicial muestra un campo de texto para ingresar nombres y un botón para añadirlos a la lista.*
 
 ### 2. Agregar Nombres
-![Agregar Nombres](https://via.placeholder.com/600x400?text=Agregar+Nombres)  
+![agregar-nombres](https://github.com/user-attachments/assets/429741d1-be58-458a-bff8-85613312a76a)
+
 *Al ingresar nombres y hacer clic en "Añadir", estos se muestran en la lista de amigos.*
 
 ### 3. Realizar el Sorteo
-![Realizar Sorteo](https://via.placeholder.com/600x400?text=Realizar+Sorteo)  
+![sortear-amigos](https://github.com/user-attachments/assets/a0789fe9-3234-4617-aedf-26f3d9bef9ff)
+
 *Al hacer clic en "Sortear amigo", se selecciona un nombre aleatorio y se muestra en la sección de resultados.*
 
-### 4. Lista Borrada Después del Sorteo
-![Lista Borrada](https://via.placeholder.com/600x400?text=Lista+Borrada)  
-*Después del sorteo, la lista de amigos se borra automáticamente.*
 
 ---
 
