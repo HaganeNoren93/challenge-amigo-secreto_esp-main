@@ -1,6 +1,7 @@
 # 🎉 Amigo Secreto
 
-![Portada](https://via.placeholder.com/800x400?text=Amigo+Secreto)  
+![Portada](https://github.com/user-attachments/assets/f0d016c4-76a8-42d1-a144-e256a6754314)
+
 *Una aplicación web simple para gestionar sorteos de amigo secreto.*
 
 ---
@@ -85,8 +86,6 @@ Para acceder al proyecto, sigue estos pasos:
   **Rol:** Estudiante  
   **GitHub:** [@HaganeNoren93](https://github.com/HaganeNoren93)  
   **Correo Electrónico:** cebg9311@gmail.com  
-
-*(Agrega más desarrolladores si corresponde.)*
 
 ---
 
